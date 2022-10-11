@@ -4,7 +4,10 @@ Initial Function()
 {
   //Sample Code
 }
-
+Initial Function1()
+{
+ //sample code
+}
 Initial Security()
 {
  //Sample Code
